@@ -1,7 +1,7 @@
 # SwiftCalculator
 
-#Timotius Septian 
-#0706022001122
+# Timotius Septian 
+# 0706022001122
 
 In the ever-evolving landscape of mobile app development, creating practical and user-friendly applications remains a fundamental goal. One such indispensable tool that has stood the test of time is the calculator. In this document, we delve into the world of iOS app development with a focus on Swift, a powerful and intuitive programming language. Our objective is to guide you through the process of building a simple calculator application for iOS using Swift.
 
